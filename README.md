@@ -18,6 +18,9 @@ The Medical Information Mart for Intensive Care III (MIMIC-III) dataset will be 
 
 Since getting access to this dataset needs training and approvals from PhysioNet, dataset is not included in this repository. 
 
+## Codes
+Codes used to generate the result can be found in `MIMIC-Multitask-Learner.ipynb`.
+
 ## References
 
 1. Johnson, A., Pollard, T., Shen, L. et al. MIMIC-III, a freely accessible critical care database. Sci Data 3, 160035 (2016). https://doi.org/10.1038/sdata.2016.35.
