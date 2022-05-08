@@ -19,7 +19,7 @@ The Medical Information Mart for Intensive Care III (MIMIC-III) dataset will be 
 Since getting access to this dataset needs training and approvals from PhysioNet, dataset is not included in this repository. 
 
 ## Codes
-Codes used to generate the result can be found in `MIMIC-Multitask-Learner.ipynb`. Detailed algorithm for `LSTM` and `Multitask Leaner` is in src folder: `lstm.py` and `multitask.py`.
+Codes used to generate the result can be found in `MIMIC-Multitask-Learner.ipynb`. Detailed algorithms for LSTM and Multitask Learner are in src folder: `lstm.py` and `multitask.py`.
 
 ## References
 
