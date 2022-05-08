@@ -1,5 +1,4 @@
 # MIMIC-Multitask-Learner
-# MIMIC Multitask Learner
 
 This project emulates an existing model by Kaji and team in their 2019 paper ["An
 attention based deep learning model of clinical events in the intensive care
